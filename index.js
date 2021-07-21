@@ -1,2 +1,2 @@
-console.log('สวัสดีนะครับ')
-console.log('ทักทายกันหน่อย')
+console.log('Hi')
+console.log('Hello')
